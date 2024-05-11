@@ -1,0 +1,12 @@
+#container {
+    position: relative;
+
+  
+  }
+  
+  #movingImage {
+    position: absolute;
+    transition: all 1s ease-in-out;
+    height: 50px; 
+  }
+  
